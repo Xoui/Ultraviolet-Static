@@ -2,7 +2,7 @@
 
 self.__uv$config = {
   prefix: "/service/",
-  bare: "https://incog.dev/bare/",
+  bare: "https://sdfsdf-5nb4.onrender.com/bare/",
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
   handler: "/uv/uv.handler.js",
